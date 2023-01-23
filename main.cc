@@ -26,3 +26,6 @@ int main()
         }
     }
 }
+
+// g++ main.cc
+// ./a.out > image.pnpm
